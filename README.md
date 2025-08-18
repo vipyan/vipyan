@@ -16,7 +16,7 @@ and collaborate seamlessly across teams—making me a more intuitive and impactf
 ## 🧑‍💻 About Me  
 - 🎯 3+ years in **Front-End Development** (React, TypeScript, Next.js).  
 - 💡 Passionate about **UI/UX, Accessibility (WCAG 2.1)**, and **Performance Optimization**.  
-- 📚 Experienced in **teaching & mentorship** (150+ learners trained).  
+- 📚 Experienced in **teaching & software engineering** (150+ learners trained).  
 - 🌍 Open to **remote/hybrid opportunities** in Canada & globally.  
 
 ---
@@ -48,7 +48,6 @@ and collaborate seamlessly across teams—making me a more intuitive and impactf
 ### 🔗 Back-End & APIs  
  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)   
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)  
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)  
