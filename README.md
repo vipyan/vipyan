@@ -1,7 +1,11 @@
 # 👋 Hi, I'm Vipin Kaniyanthara  
 
 🚀 **Front-End Developer | Educator | AI Enthusiast**  
-Passionate about building responsive, accessible, and user-focused web applications with React, TypeScript, and modern UI/UX practices.  
+Software Engineer focusing on Front-End development with 3+ years of experience building responsive, user-focused web 
+applications using React, JavaScript, and TypeScript. Skilled in UI/UX best practices, accessibility standards (WCAG), and 
+performance optimization. Adept at integrating APIs, collaborating in Agile environments, and working within modern DevOps 
+workflows. My background in teaching effective human communication further strengthens my ability to write clear, strategic prompts 
+and collaborate seamlessly across teams—making me a more intuitive and impactful developer.   
 
 [![Portfolio](https://img.shields.io/badge/🌐-Portfolio-blue)](https://vipinkaniyanthara.netlify.app/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/vipinvvk/)  
@@ -10,35 +14,67 @@ Passionate about building responsive, accessible, and user-focused web applicati
 ---
 
 ## 🧑‍💻 About Me  
-- 🎯 3+ years of experience in **Front-End Development** using **React, TypeScript, and Next.js**.  
-- 💡 Skilled in **UI/UX best practices, accessibility (WCAG 2.1)**, and **performance optimization**.  
-- 📚 Background in **education & mentorship**, having trained 150+ learners in web development.  
-- 🛠️ Open to **remote/hybrid opportunities** in Canada & beyond.  
+- 🎯 3+ years in **Front-End Development** (React, TypeScript, Next.js).  
+- 💡 Passionate about **UI/UX, Accessibility (WCAG 2.1)**, and **Performance Optimization**.  
+- 📚 Experienced in **teaching & mentorship** (150+ learners trained).  
+- 🌍 Open to **remote/hybrid opportunities** in Canada & globally.  
 
 ---
 
-## ⚡ Core Tech Stack  
-**Languages & Frameworks:** React, Next.js, TypeScript, JavaScript (ES6+), HTML5, CSS3/Sass  
-**UI/UX & Tools:** Tailwind CSS, Material UI, Bootstrap, Figma, WCAG 2.1  
-**Testing & Quality:** Jest, Cypress, React Testing Library, ESLint, Prettier, TDD  
-**Back-End & APIs:** REST APIs, Node.js, Firebase, SQL basics  
-**Workflows:** Git, GitHub Actions, CI/CD, Agile/Scrum, Jira  
+## 🛠️ Tech Stack  
+
+### 🎨 Front-End  
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
+![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white)  
+
+### 🎨 UI & Styling  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)  
+![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?logo=mui&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)  
+
+### ⚙️ Testing & Quality  
+![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)  
+![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white)  
+![React Testing Library](https://img.shields.io/badge/RTL-E33332?logo=testinglibrary&logoColor=white)  
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white)  
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=black)  
+
+### 🔗 Back-End & APIs  
+ 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)   
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)  
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)  
+![REST APIs](https://img.shields.io/badge/REST-02569B?logo=swagger&logoColor=white)  
+
+### 🧰 Tools & Workflows  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?logo=githubactions&logoColor=white)  
+![Agile](https://img.shields.io/badge/Agile-Scrum-0052CC?logo=jira&logoColor=white)  
 
 ---
 
 ## 🚀 Featured Projects  
 
 - **[Chef AI](https://fabulous-salmiakki-0a69f5.netlify.app/)** | [Code](https://github.com/vipyan/chef-ai)  
-  _AI-powered recipe app with React, OpenAI API, and Cloudflare Workers._  
+  🍳 AI-powered recipe app using React, OpenAI API, and Cloudflare Workers.  
 
 - **[Quizzical](https://quizzicalfor.netlify.app/)** | [Code](https://github.com/vipyan/Quizzical)  
-  _Interactive quiz app using TypeScript, APIs, and unit tests (90%+ coverage)._  
+  ❓ Interactive quiz app with TypeScript, APIs & 90%+ test coverage.  
 
 - **[Tenzies Game](https://spiffy-llama-3be7d3.netlify.app/)** | [Code](https://github.com/vipyan/tenzies)  
-  _Fun dice game built with React Hooks, optimized for performance._  
+  🎲 Dice game built with React Hooks, optimized for performance.  
 
 - **[Assembly Endgame](https://subtle-melomakarona-e2c73d.netlify.app/)** | [Code](https://github.com/vipyan/assembly-endgame)  
-  _Programming-themed word guessing game with responsive and accessible design._  
+  🎮 Programming-themed word guessing game with responsive design.  
 
 ---
 
