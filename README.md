@@ -61,22 +61,6 @@ and collaborate seamlessly across teams—making me a more intuitive and impactf
 
 ---
 
-## 🚀 Featured Projects  
-
-- **[Chef AI](https://fabulous-salmiakki-0a69f5.netlify.app/)** | [Code](https://github.com/vipyan/chef-ai)  
-  🍳 AI-powered recipe app using React, OpenAI API, and Cloudflare Workers.  
-
-- **[Quizzical](https://quizzicalfor.netlify.app/)** | [Code](https://github.com/vipyan/Quizzical)  
-  ❓ Interactive quiz app with TypeScript, APIs & 90%+ test coverage.  
-
-- **[Tenzies Game](https://spiffy-llama-3be7d3.netlify.app/)** | [Code](https://github.com/vipyan/tenzies)  
-  🎲 Dice game built with React Hooks, optimized for performance.  
-
-- **[Assembly Endgame](https://subtle-melomakarona-e2c73d.netlify.app/)** | [Code](https://github.com/vipyan/assembly-endgame)  
-  🎮 Programming-themed word guessing game with responsive design.  
-
----
-
 ## 🎓 Certifications  
 - 🏅 [Frontend Developer Career Path – Scrimba (2025)](https://scrimba.com/certificate-cert24zAwPPowMp1kKBFHoCpvu6gaPNQ1amuguMTv)  
 - 🎓 [CS50x – HarvardX (2025)](https://courses.edx.org/certificates/31f8fdc2b5594f09971790c9c5893af7)  
