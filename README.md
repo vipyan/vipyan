@@ -14,7 +14,7 @@ and collaborate seamlessly across teams—making me a more intuitive and impactf
 ---
 
 ## 🧑‍💻 About Me  
-- 🎯 3+ years in **Front-End Development** (React, TypeScript, Next.js).  
+- 🎯 5+ years in **Front-End Development** (React, TypeScript, Next.js).  
 - 💡 Passionate about **UI/UX, Accessibility (WCAG 2.1)**, and **Performance Optimization**.  
 - 📚 Experienced in **teaching & software engineering** (150+ learners trained).  
 - 🌍 Open to **remote/hybrid opportunities** in Canada & globally.  
