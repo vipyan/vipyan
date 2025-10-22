@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Vipin Kaniyanthara  
 
 🚀 **Front-End Developer | Educator | AI Enthusiast**  
-Software Engineer focusing on Front-End development with 3+ years of experience building responsive, user-focused web 
+Software Engineer focusing on Front-End development with 5+ years of experience building responsive, user-focused web 
 applications using React, JavaScript, and TypeScript. Skilled in UI/UX best practices, accessibility standards (WCAG), and 
 performance optimization. Adept at integrating APIs, collaborating in Agile environments, and working within modern DevOps 
 workflows. My background in teaching effective human communication further strengthens my ability to write clear, strategic prompts 
