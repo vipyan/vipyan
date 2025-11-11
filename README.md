@@ -1,11 +1,7 @@
 # 👋 Hi, I'm Vipin Kaniyanthara  
 
 🚀 **Front-End Developer | Educator | AI Enthusiast**  
-Software Engineer focusing on Front-End development with 5+ years of experience building responsive, user-focused web 
-applications using React, JavaScript, and TypeScript. Skilled in UI/UX best practices, accessibility standards (WCAG), and 
-performance optimization. Adept at integrating APIs, collaborating in Agile environments, and working within modern DevOps 
-workflows. My background in teaching effective human communication further strengthens my ability to write clear, strategic prompts 
-and collaborate seamlessly across teams—making me a more intuitive and impactful developer.   
+Software Engineer specializing in frontend development with 5+ years building responsive, user-centric web apps using React, Next.js, TypeScript, and JavaScript. Strong background in UI/UX, WCAG 2.1 accessibility, and performance optimization. Backend experience includes RESTful API design with Node.js/Express and data-driven backends using Python (Django). Experienced with Docker and CI/CD, Retool automation for internal workflows, and delivering production-ready, containerized applications. Comfortable in Agile teams and focused on clean architecture, DevOps practices, and maintainable, scalable solutions.   
 
 [![Portfolio](https://img.shields.io/badge/🌐-Portfolio-blue)](https://vipinkaniyanthara.netlify.app/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/vipinvvk/)  
