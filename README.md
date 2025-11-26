@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vipin Kaniyanthara  
 
-🚀 **Front-End Developer | Educator | AI Enthusiast**  
+🚀 **Front-End Developer | Educator |  Python & ML Integration | Forward Deployed Software Engineer**  
 Software Engineer specializing in frontend development with 5+ years building responsive, user-centric web apps using React, Next.js, TypeScript, and JavaScript. Strong background in UI/UX, WCAG 2.1 accessibility, and performance optimization. Backend experience includes RESTful API design with Node.js/Express and data-driven backends using Python (Django). Experienced with Docker and CI/CD, Retool automation for internal workflows, and delivering production-ready, containerized applications. Comfortable in Agile teams and focused on clean architecture, DevOps practices, and maintainable, scalable solutions.   
 
 [![Portfolio](https://img.shields.io/badge/🌐-Portfolio-blue)](https://vipinkaniyanthara.netlify.app/)  
